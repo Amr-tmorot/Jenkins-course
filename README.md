@@ -9,3 +9,7 @@
 /etc/apt/sources.list.d/jenkins.list > /dev/null
 5. sudo apt update
 6. sudo apt install jenkins -y
+
+## Application repo
+
+https://github.com/spring-projects/spring-petclinic.git
